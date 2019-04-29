@@ -1,6 +1,6 @@
 {
   "name": "@beyonk/promise-retry",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Retry a promise if it times out, until max retries reached",
   "main": "index.js",
   "scripts": {
